@@ -3,7 +3,7 @@ img.socialmedia
     width: 50px;
 }
 
-.navbar-inner, .navbar .brand
+.navbar-inner, .navbar .brand,  .footer
 {
     background-color: #00F;
 }
