@@ -3,3 +3,8 @@ img.socialmedia
     width: 50px;
 }
 
+.navbar-inner, .navbar .brand
+{
+    background-color: #00F;
+}
+
