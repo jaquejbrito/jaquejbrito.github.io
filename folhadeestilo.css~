@@ -229,7 +229,7 @@ a img
     padding: 10px 0 0 0;
 }
 
-#social li img
+#socialmedia li img
 {
     width: 50px;
 }
