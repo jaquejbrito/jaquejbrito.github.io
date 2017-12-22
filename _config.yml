@@ -79,11 +79,11 @@ analytics:
 # Site Author
 author:
   name             : "Jaqueline Brito"
-  avatar           : "foto-perfil.png"
+  avatar           : "foto_perfil.png"
   bio              : "I am a computer scientist with a PhD on index-based methods for large databases and distributed systems."
   location         : "Los Angeles, California"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=-BaxP5EAAAAJ&hl=pt-BR&oi=ao"
   email            :
   uri              :
   bitbucket        :
