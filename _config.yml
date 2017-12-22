@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Jaque's home page"
 title_separator          : "-"
 name                     : &name "Jaque J. Brito"
 description              : &description ""
