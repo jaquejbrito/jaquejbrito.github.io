@@ -10,15 +10,14 @@ redirect_from:
 
 This is my personal home page. I am a PhD on Computer Science by the University of São Paulo, Brazil. My thesis was primarily focused on the processing of multiple joins (Star Joins) in distributed systems. In 2016, I did an internship at the University of California San Diego, with Prof. Yannis Papakonstantinou.
 
-My primary research interests are in improving the performance of decision-making systems and large databases hosted in distributed systems. This involves the use of more recent technologies in combinaiton with well established concepts and technologies (e.g. OLAP in Data Warehouses).
+My primary research interests are in improving the performance of decision-making systems and large databases hosted in distributed systems. This involves the use of more recent technologies in combination with well established concepts and technologies (e.g. OLAP in Data Warehouses).
 
 I am currently located in Los Angeles, California.
 
 
-
 ## Selected papers
 
-* [Efficient Approximate Query Answering over Sensor Data with Deterministic Error Guarantees](.)
+* [Efficient Approximate Query Answering over Sensor Data with Deterministic Error Guarantees](https://arxiv.org/abs/1707.01414)
 J Brito, K Demirkaya, B Etienne, Y Katsis, C Lin, Y Papakonstantinou
 arXiv preprint arXiv:1707.01414
 
@@ -35,8 +34,9 @@ Data Warehousing and Knowledge Discovery, 152-166
 
 * Microsoft Azure Research grant (MS-AZR-0036P), 2015-present
 * FAPESP BEPE fellowship with University of California San Diego, 2016-2017
-* FAPESP PhD scholarship with University of São Paulo, 2013-2017
-
+* PAE scholarship - Teaching Assistant to Databases (2011,2014)
+* FAPESP PhD scholarship - University of São Paulo, 2012-2017
+* CAPES Masters scholarship - University of São Paulo, 2010-2012
 
 ## Contact
 
