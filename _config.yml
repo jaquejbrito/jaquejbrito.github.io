@@ -80,8 +80,8 @@ analytics:
 author:
   name             : "Jaqueline Brito"
   avatar           : "foto_perfil.png"
-  bio              : "I am a computer scientist with a PhD on index-based methods for large databases and distributed systems."
-  location         : "Los Angeles, California"
+  bio              : "Computer scientist with a PhD on index-based methods for large databases and distributed systems."
+  location         : "Los Angeles, Ca"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=-BaxP5EAAAAJ&hl=pt-BR&oi=ao"
   email            :
@@ -98,7 +98,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
